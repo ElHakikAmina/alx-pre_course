@@ -1,0 +1,20 @@
+cd
+rm
+remove
+touch
+cat
+git commit -m
+git push
+Git fetch
+Git pull
+git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_course.git
+echo 'My first readme' > README.md
+git config --global user.email "amina.el.hakik2@gmail"
+git config --global user.name "EL HAKIK Amina"
+git add .
+git branch update_script
+mkdir 98
+vim school
+i
+echap
+:wq
